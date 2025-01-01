@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://hacker-rank-stats-card.vercel.app/generate-card?username={{irhamulislam_pr1}}" alt="HackerRank Card"/>
+<!--<img src="https://hacker-rank-stats-card.vercel.app/generate-card?username={{irhamulislam_pr1}}" alt="HackerRank Card"/>
+-->
