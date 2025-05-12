@@ -4,10 +4,7 @@ Senior-year Computer Science Engineering student at KUET, driven by a passion fo
 
 ## 🌐 Socials:
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irham.pranjal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://tinyurl.com/5xskvwup)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iipranjal007)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irhamulislam.pranjal@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irham.pranjal)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://tinyurl.com/5xskvwup)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iipranjal007)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irhamulislam.pranjal@gmail.com)
 
 
 # 💻 Tech Stack:
