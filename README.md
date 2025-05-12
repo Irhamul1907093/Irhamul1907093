@@ -1,8 +1,7 @@
 # 💫 About Me:
-Senior-year Computer Science Engineering student at KUET, driven by a passion for building innovative solutions in software development, machine learning, and database systems. Over the course of my academic journey, I have successfully completed diverse projects, including machine learning applications, database management systems, and hardware integrations. Tackled 500+ programming challenges, sharpening expertise in data structures, algorithms, Python, and SQL
+Senior-year Computer Science Engineering student at KUET, driven by a passion for building innovative solutions in software development, machine learning, and database systems. Over the course of my academic journey, I have successfully completed diverse projects, including machine learning applications, database management systems, and hardware integrations. Tackled 500+ programming challenges, sharpening expertise in data structures, algorithms, Python, and SQL.
 
 
-## 🌐 Socials:
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irham.pranjal)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://tinyurl.com/5xskvwup)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iipranjal007)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irhamulislam.pranjal@gmail.com)
 
